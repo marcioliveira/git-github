@@ -1,0 +1,2 @@
+git add . (adiciona os arquivos ou as mudanças feitas)
+git commit -m "mensagem do commit"
